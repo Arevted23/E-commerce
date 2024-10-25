@@ -1,5 +1,5 @@
 ## E-commerce
-
+<h1 align="center">Hi there! Welcome to our e-commerce project, <br/> the Mechanical Parts Repository!</h1>
 #Technologies and Dependencies
 
 The project will initially be created with the following technologies:
