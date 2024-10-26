@@ -28,3 +28,13 @@ If you are a new collaborator on this project, follow these steps to run it:
 ## Notes
 1. Remember to create a new branch to add a feature.
 
+<<<<<<< HEAD
+=======
+#branches
+The branches that will be worked on will be: 
+1. main: It will have the main characteristics of the project
+2. feature/JEM-publish-branch: In charge of public branches
+/**
+* Add more branches here
+*/
+>>>>>>> c41825eebf1bf6abf094e40c2113f8471b919a6b
